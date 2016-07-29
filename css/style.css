@@ -1,0 +1,46 @@
+.columna_1 {
+	width:100%; /* El header abarca el 100% de la Web */
+	overflow:hidden; /* Limpiar errores de float */
+	background:black;
+	height: 160px;
+	display:inline-block;
+	color: white;
+	text-decoration:none;
+	padding:5px 10px;
+	line-height:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-top: 60px;
+	
+}
+ 
+.Imagenes{
+		width: 230px;
+		height: 230px;
+		border: solid white;
+		padding: 5px;
+		border-radius:15px;
+		margin-top: 20px;	
+}
+.menu{
+	background: #E5E7E9;
+	border: solid silver;
+	padding-bottom: 15px;
+	padding-top: 15px;	
+}
+.Titulo{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 35px;
+}
+.Imagenes1{
+		width: 80px;
+		height: 80px;
+		border: solid white;
+		border-radius:15px;	
+		border: solid black;
+		padding: 5px;
+		margin-top: 30px;
+}
+*{
+	font-color: red;
+}
